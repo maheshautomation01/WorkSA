@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2018-04-23T18:06:27Z" finished-at="2018-04-23T18:06:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2018-04-23T18:06:27Z" finished-at="2018-04-23T18:06:27Z">
+      <class name="Handson_With_Sample.ReadDataFromFiles">
+        <test-method status="PASS" signature="subtract()[pri:0, instance:Handson_With_Sample.ReadDataFromFiles@343f4d3d]" name="subtract" duration-ms="20" started-at="2018-04-23T14:06:27Z" finished-at="2018-04-23T14:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract -->
+      </class> <!-- Handson_With_Sample.ReadDataFromFiles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
